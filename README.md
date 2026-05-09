@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sneha41sb/Sneha41sb/main/face.gif.gif" width="100%">
+  <img src="https://raw.githubusercontent.com/Sneha41sb/Sneha41sb/main/face.gif.gif" width="50%">
 </p>
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">⚙️ Systems & Mechanical Engineer | Full Stack Developer</h3>
