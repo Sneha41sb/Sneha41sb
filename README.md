@@ -15,8 +15,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sneha41sb&theme=radical" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sneha41sb&theme=radical&utcOffset=5.5" width="32%" />
+ 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sneha41sb&theme=radical" width="32%" />
 </p>
 
