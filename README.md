@@ -7,8 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=F75C7E&center=true&vCenter=true&width=700&lines=Systems+%26+Mechanical+Engineer;Full+Stack+Developer" />
 </p>
 
-- ⚙️ Second-year **Mechanical Engineering student @ AIT Pune**
-- ⚡ I bridge the gap between **hardware and high-performance code**
+
+I bridge the gap between **hardware and high-performance code**
 
 ---
 
