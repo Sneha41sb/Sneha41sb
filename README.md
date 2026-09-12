@@ -18,7 +18,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,go,react,nextjs,tailwind,ts,shell,git,linux,vscode,visualstudio,idea" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,go,nix,react,nextjs,tailwind,ts,shell,git,linux,vscode,visualstudio,idea" />
   <img src="https://skillicons.dev/icons?i=grpc" />
 </p>
 
